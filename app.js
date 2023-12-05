@@ -15,4 +15,4 @@ sequelize.sync().then(()=>{
 })
 app.listen(2,()=>{
     console.log('onfire!')
-})
+}) 
